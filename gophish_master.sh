@@ -22,4 +22,5 @@ echo "IyEvdXNyL2Jpbi9zdWRvIGJhc2gKCmVjaG8gLWUgIlJlc2V0dGluZyBHb1BoaXNoIHBhc3N3b3
 chmod +x /opt/GoPhish/gophish && chown -R "ubuntu:ubuntu" /opt/GoPhish/
 chmod +x /home/ubuntu/gophish*
 chmod u+s /home/ubuntu/gophish*
+sudo /opt/GoPhish/gophish
 /home/ubuntu/gophish-config.sh
